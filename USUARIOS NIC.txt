@@ -1,22 +1,25 @@
 USUARIOS       
 
-Planta:SITE EL SALVADOR TEXTILE SY SOCKS
-usuario: HBIOPICO
+Planta: CHINANDEGA
+usuario: GCHINANDEGA
 password: gsd123
    
-Planta: CONFECCIONES JIBOA BODEGA 2B         
-Usuario: JIBOA2
+Planta: SAN MARCOS        
+Usuario: GSMARCOS
 password:gsd1020
   
-Planta: CONFECCIONES EL PEDREGAL BODEGA 2      
-usuario: PEDREGALB2
+Planta: ANNIC1      
+usuario: GANNIC1
 password:gsd1014
     
-Planta: CONFECCIONES EL PEDREGAL COSTURA 
-Usuario: PEDREGALCS        
+Planta: ANNIC2 
+Usuario: GANNIC2        
 password:gsd1024
         
-Planta: PLANTA DE TRATAMIENTO
-Usuario: HBIBIO
+Planta: RIVAS
+Usuario: GRIVAS
 password:gsd2030
- 
+
+Planta: NANDAIME
+Usuario:GNAN
+Password:gsd1234 
