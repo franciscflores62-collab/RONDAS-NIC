@@ -582,7 +582,7 @@
         nombre: "RONDIN NANDAIME",
         rol: "RONDIN",
         formularios: ["GILDAN NANDAIME"]
-      }
+      },
       "GRIVAS": {
         password: "gsd2030",
         nombre: "RONDIN GILDAN RIVAS",
