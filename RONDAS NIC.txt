@@ -581,7 +581,7 @@
         password: "gsd1234",
         nombre: "RONDIN NANDAIME",
         rol: "RONDIN",
-        formularios: ["GILDAN NANDAIME"]
+        formularios: ["NANDAIME"]
       },
       "GRIVAS": {
         password: "gsd2030",
